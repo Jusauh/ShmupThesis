@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BulletSheet_WIP.png</Source>
+      <Name>BulletSheet_WIP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\BulletSheet_WIP.xnb</Output>
+      <Time>2017-04-06T02:25:29.3759918+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSheet.png</Source>
+      <Name>PlayerSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\PlayerSheet.xnb</Output>
+      <Time>2017-04-05T21:08:10.9230546+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud_WIP.png</Source>
+      <Name>Hud_WIP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\Hud_WIP.xnb</Output>
+      <Time>2016-10-10T15:25:11.0797094+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bulletSheet2.png</Source>
+      <Name>bulletSheet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\bulletSheet2.xnb</Output>
+      <Time>2017-04-05T21:33:39.1324631+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBG.png</Source>
+      <Name>MenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\MenuBG.xnb</Output>
+      <Time>2017-04-05T17:27:06.9473986+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuElements.png</Source>
+      <Name>MenuElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\MenuElements.xnb</Output>
+      <Time>2017-04-09T18:44:49.1259176+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyExplosion.png</Source>
+      <Name>EnemyExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\EnemyExplosion.xnb</Output>
+      <Time>2017-04-06T00:48:33.3043315+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2017-04-09T02:09:17.4355596+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{92E5072F-450E-483B-93C9-5A708EBC92CD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallengesContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Backup\Jusa\Documents\Visual Studio 2015\Projects\BulletCurtainChallenges\BulletCurtainChallenges\BulletCurtainChallenges\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-10-22T21:20:36.116479+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
